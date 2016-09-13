@@ -23,7 +23,7 @@
     "nodeos-mount-filesystems": "^0.2.1",
     "nodeos-mount-utils": "^0.2.0",
     "nodeos-nodejs": "^6.5.0",
-    "usrbinenv": "^0.0.3"
+    "usrbinenv": "^0.1.0"
   },
   "devDependencies": {
     "nodeos-barebones": "NodeOS/nodeos-barebones",
